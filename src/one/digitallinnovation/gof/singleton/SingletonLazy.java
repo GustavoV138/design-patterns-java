@@ -1,4 +1,4 @@
-package one.digitallinnovation.gof;
+package one.digitallinnovation.gof.singleton;
 
 //Singleton "Preguiçoso"
 public class SingletonLazy {
